@@ -1,1 +1,4 @@
 ## This is a markdown file
+* linje 1
+* linje 2
+* linje 3
